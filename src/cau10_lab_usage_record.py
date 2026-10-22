@@ -22,3 +22,4 @@ print(f"Điện năng: {dien_nang_kwh} kWh")
 print(f"Chi phí: {chi_phi:.2f} VND")
 print(f"Trên 60 phút: {su_dung_tren_60}")
 print(f"Ghi nhận lúc: {ghi_nhan_luc}")
+# Hoan thien phien ban v2 case study cho chuong 2
